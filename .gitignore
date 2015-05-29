@@ -1,0 +1,13 @@
+bin
+bin/
+bin/**
+build/
+build/**
+build
+.project
+.settings
+.gradle
+.classpath
+temp
+temp/
+temp/**
